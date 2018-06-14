@@ -14143,11 +14143,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\work\\accoona.io\\accoona.io.communicator.Tests\\accoona.io.communicator.Tests.csproj",
+      "projectUniqueName": "C:\\work\\accoona.io\\accoona.io.communicator.Tests\\accoona.io.communicator.Tests.csproj",
       "projectName": "accoona.io.communicator.Tests",
-      "projectPath": "c:\\work\\accoona.io\\accoona.io.communicator.Tests\\accoona.io.communicator.Tests.csproj",
+      "projectPath": "C:\\work\\accoona.io\\accoona.io.communicator.Tests\\accoona.io.communicator.Tests.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "c:\\work\\accoona.io\\accoona.io.communicator.Tests\\obj\\",
+      "outputPath": "C:\\work\\accoona.io\\accoona.io.communicator.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -14166,8 +14166,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "c:\\work\\accoona.io\\accoona.io.communicator\\accoona.io.communicator.csproj": {
-              "projectPath": "c:\\work\\accoona.io\\accoona.io.communicator\\accoona.io.communicator.csproj"
+            "C:\\work\\accoona.io\\accoona.io.communicator\\accoona.io.communicator.csproj": {
+              "projectPath": "C:\\work\\accoona.io\\accoona.io.communicator\\accoona.io.communicator.csproj"
             }
           }
         }

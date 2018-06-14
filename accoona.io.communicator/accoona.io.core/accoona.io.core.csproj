@@ -4,4 +4,12 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="integration\" />
+    <Folder Include="common\" />
+    <Folder Include="auth\" />
+    <Folder Include="validation\" />
+    <Folder Include="rater\" />
+  </ItemGroup>
+
 </Project>

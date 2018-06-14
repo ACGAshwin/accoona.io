@@ -5883,11 +5883,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\work\\accoona.io\\accoona.io.preeval.Tests\\accoona.io.preeval.Tests.csproj",
+      "projectUniqueName": "C:\\work\\accoona.io\\accoona.io.preeval.Tests\\accoona.io.preeval.Tests.csproj",
       "projectName": "accoona.io.preeval.Tests",
-      "projectPath": "c:\\work\\accoona.io\\accoona.io.preeval.Tests\\accoona.io.preeval.Tests.csproj",
+      "projectPath": "C:\\work\\accoona.io\\accoona.io.preeval.Tests\\accoona.io.preeval.Tests.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "c:\\work\\accoona.io\\accoona.io.preeval.Tests\\obj\\",
+      "outputPath": "C:\\work\\accoona.io\\accoona.io.preeval.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5906,8 +5906,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "c:\\work\\accoona.io\\accoona.io.preeval\\accoona.io.preeval.csproj": {
-              "projectPath": "c:\\work\\accoona.io\\accoona.io.preeval\\accoona.io.preeval.csproj"
+            "C:\\work\\accoona.io\\accoona.io.preeval\\accoona.io.preeval.csproj": {
+              "projectPath": "C:\\work\\accoona.io\\accoona.io.preeval\\accoona.io.preeval.csproj"
             }
           }
         }
